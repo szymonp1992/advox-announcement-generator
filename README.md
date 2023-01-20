@@ -1,4 +1,4 @@
-# Checkout form
+# Advox Announcement Generator
 
 ## Table of contents
 
