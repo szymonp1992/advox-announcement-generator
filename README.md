@@ -1,29 +1,24 @@
-# advox-announcement-generator
+# Checkout form
 
-This template should help get you started developing with Vue 3 in Vite.
+## Table of contents
 
-## Recommended IDE Setup
+- [General info](#general-info)
+- [Technologies](#technologies)
+- [Live preview](#live-preview)
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+## General info
 
-## Customize configuration
+Ten projekt został wykonany w ramach pracy, aby ułatwić dodawanie własnych komunikatów na pasku w górnej części strony sklepu internetowego. Ma on współpracować z wtyczką Advox.
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+Aplikacja umożliwia ustawienie do trzech URL-i oraz tekstów, pod którymi kryją się URL-e. Pozwala też na ustawienie koloru paska.
 
-## Project Setup
+## Technologies
 
-```sh
-npm install
-```
+Project is created with:
 
-### Compile and Hot-Reload for Development
+- Vue 3.2.45
+- Bootstrap 5.2.3
 
-```sh
-npm run dev
-```
+## Live preview
 
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
+Live preview is available at https://szymonp1992.github.io/advox-announcement-generator/
