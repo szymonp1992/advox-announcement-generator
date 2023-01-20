@@ -8,9 +8,9 @@
 
 ## General info
 
-Ten projekt został wykonany w ramach pracy, aby ułatwić dodawanie własnych komunikatów na pasku w górnej części strony sklepu internetowego. Ma on współpracować z wtyczką Advox.
+This one-page app was made as part of a job to make it easier to add custom messages to the bar at the top of the online store page. It is intended to work with the Advox plugin.
 
-Aplikacja umożliwia ustawienie do trzech URL-i oraz tekstów, pod którymi kryją się URL-e. Pozwala też na ustawienie koloru paska.
+The application allows you to set up to three URLs and the texts under which the URLs are hidden. It also allows you to set the color of the bar.
 
 ## Technologies
 
